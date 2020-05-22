@@ -1,0 +1,32 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.intro, .stacks, .skills, .skillset, .experience, .dateOfRole, .roleHeld, .dateSpan, .roleTitle
+{
+    padding: 0 1.5rem;
+}
+
+.stacks
+{
+    font-weight: bold;
+}
+
+.footer a
+{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.footer:hover a
+{
+    color: gold;
+    text-decoration: none;
+}
+
+.footer:visited
+{
+    color: yellow;
+}
